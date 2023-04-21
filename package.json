@@ -1,0 +1,32 @@
+{
+  "name": "prospacecypress",
+  "version": "1.0.0",
+  "description": "ProSpace Automation Testing",
+  "main": "index.js",
+  "scripts": {
+    "cy:tests:chrome": "cypress run --browser chrome",
+    "cy:open-report": "open cypress/reports/html/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pempekriting/prospaceCypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation"
+  ],
+  "author": "Kgs. Azzam Nizar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pempekriting/prospaceCypress/issues"
+  },
+  "homepage": "https://github.com/pempekriting/prospaceCypress#readme",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.10.0",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "cypress-mochawesome-reporter": "^3.3.0",
+    "esbuild": "^0.17.17"
+  }
+}
