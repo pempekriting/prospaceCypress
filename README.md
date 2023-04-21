@@ -62,3 +62,4 @@ To running the test, please follow this steps:
 
 ## Evidence Test <a name = "evidence"></a>
 [Report Mochawesome](https://pempekriting.github.io/prospaceCypress/cypress/reports/html/index.html)
+[Manual Test Cases](https://docs.google.com/spreadsheets/d/1YjEnl2dqnkII_hwwmwkFqc7QkEoI5CIlJEo2XAXNiV8/edit?usp=sharing)

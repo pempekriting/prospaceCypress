@@ -14,6 +14,7 @@ Feature: Factorial Calculation
     Examples:
         | valueData |
         | 1.4  |
+        | 1.45 |
         |{backspace}|
         |test|
         |<script>alert(1)</script>|
