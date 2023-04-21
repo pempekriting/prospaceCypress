@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=81px src="	https://docs.cypress.io/img/logo/cypress-logo-dark.png" alt="Project logo"></a>
+ <img width=200px src="https://docs.cypress.io/img/logo/cypress-logo-dark.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Automation Web With Cypress</h3>
@@ -61,4 +61,4 @@ To running the test, please follow this steps:
 - [@pempekriting](https://github.com/pempekriting) - Idea & Initial work
 
 ## Evidence Test <a name = "evidence"></a>
-![Report](Evidence/evidence.gif)
+![Report](https://pempekriting.github.io/CucumberTestNG/cypress/reports/html/index.html)
